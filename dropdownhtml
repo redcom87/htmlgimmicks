@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+//this is a personal website thing-a-ma-jig
+
+<html>
+<head>
+    <title>Page Title</title>
+    
+<link rel='stylesheet' href='style2.css'/>
+
+    
+</head>
+
+<body>
+
+<div id="wrap">
+		  <ul class="navbar">
+			 <li><a href="#">Home</a></li>
+			 <li><a href="#">Portfolio</a>
+				<ul>
+				   <li><a href="#">Personal Website</a></li>
+				   <li><a href="#">Rent-a-Puppy Website</a></li>
+				   <li><a href="#">Civo Website</a></li>
+				</ul>         
+			 </li>
+			 <li><a href="#">Interests</a>
+				<ul>
+				   <li><a href="#" >Maps</a></li>
+				   <li><a href="#">Flyfishing</a></li>
+				   <li><a href="#">Trekking</a></li>
+				</ul>         
+			 </li>
+			 <li><a href="#">Business Experience</a>
+				<ul>
+				   <li><a href="#">Grand</a></li>
+				   <li><a href="#">Chinese Companies</a></li>
+				   <li><a href="#">Wobiyou</a></li>
+				   <li><a href="#">Other</a></li>
+				</ul>         
+			 </li>
+			 <li><a href="#">Skills</a>
+				<ul>
+				   <li><a href="#">Mandarin Chinese</a></li>
+				   <li><a href="#">Tech Skills</a></li>
+				   <li><a href="#">Business Development</a></li>
+				   <li><a href="#">Survival</a></li>
+				</ul>         
+			 </li>
+			 <li><a href="#">About Me</a>
+				<ul>
+				   <li><a href="#">Who</a></li>
+				   <li><a href="#">Where</a></li>
+				   <li><a href="#">What</a></li>
+				</ul>         
+			 </li>
+		  </ul>
+</div>
+
+<div id="next">
+    
+            <p>Welcome to my personal website! Here is where I hope you may get to know my strengths, skillset, and learn more about me.</p>
+    
+</div>
+
+</body>
+</html>
